@@ -176,8 +176,6 @@ ALLOWED_HOSTS = ["multidb.local", "multidb1.local", "multidb2.local"]
 ```
 
 
-
-
 ## Referencias
-https://django-tenant-schemas.readthedocs.io/en/latest/install.html
+https://django-tenant-schemas.readthedocs.io/en/latest/install.html 
 https://books.agiliq.com/projects/django-multi-tenant/en/latest/index.html

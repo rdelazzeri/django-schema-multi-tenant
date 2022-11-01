@@ -105,8 +105,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'tenant_schemas.postgresql_backend',
         'NAME': 'schema',
-        'USER': 'root',
-        'PASSWORD': '$Dt11012022#',
+        'USER': 'user',
+        'PASSWORD': 'password',
         'HOST': 'localhost',
         'PORT': '5432',
         # ..
